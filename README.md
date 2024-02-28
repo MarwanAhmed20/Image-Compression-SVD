@@ -12,3 +12,12 @@ In This notebook I will use Single Value Decomposition in *Image compression*
 * Calculat Compression Ratio
   
 * Compare the quality of compressed image with original one by Mean Squared Error, Cosine Similarity, Structural Similarity and Peak Signal-to-Noise Ratio
+
+# The notebook requires the following Python libraries:
+* numpy
+* cv2
+* matplotlib
+* PIL
+* tensorflow
+* sklearn
+* skimage
