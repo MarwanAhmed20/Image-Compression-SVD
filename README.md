@@ -1,5 +1,5 @@
 # Image-Compression
-#Single Value Decomposition SVD
+# Single Value Decomposition SVD
 
 In This notebook I will use Single Value Decomposition in *Image compression*
 
